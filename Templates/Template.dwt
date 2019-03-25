@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.button {
+    background-color: #FF0004;
+    border-radius: 30px;
+    border: 0;
+    color: #F6F6F6 !important;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 2.95em;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    margin-top: 0px;
+    margin-right: 66px;
+    margin-bottom: 0px;
+    margin-left: 6px;
+    padding-top: 0;
+    padding-right: 2em;
+    padding-bottom: 0;
+    padding-left: 2em;
+}
+	
+.headera{
+    color: #FFFFFF !important;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 18px;
+}
+	
+.foothera{
+    color: #a0a0a0 !important;
+    display: inline-block;
+    text-decoration: none;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+a:active, a:hover {
+    text-decoration: underline;
+    color: #5E5E5E !important;
+}
+</style>
+</head>
+
+<body>
+	<table width="1024" border="0" align="center">
+	  <tbody>
+		<tr>
+		  	<td style="text-align: center"><a href="index.html"><img src="../image/super-mario-world-logo.png" width="600" height="170" alt="Website Logo"/></a></td>
+		</tr>
+		<tr>
+			<td bgcolor="#FF0004"><table width="1012" border="0">
+			  <tbody>
+			    <tr>
+			      <td style="text-align: center;"><a href="index.html" class="headera">Home</a></td>
+			      <td style="text-align: center;"><a href="introduction.html" class="headera">Game Introduction</a></td>
+			      <td style="text-align: center;"><a href="howtoplay.html" class="headera">How To Play</a></td>
+			      <td style="text-align: center;"><a href="discussion.html" class="headera">Discussion Board</a></td>
+			      <td style="text-align: center;"><a href="contact.html" class="headera">Contact Us</a></td>
+		        </tr>
+		      </tbody>
+	      	</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td><hr>
+		  <!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+		  </td>
+		</tr>
+		<tr>
+		  <td bgcolor="#e7e7e7">
+			<table width="1012" border="0">
+ 			 <tbody>
+				<tr>
+			  	  <td width="50"><h3>&nbsp;</h3></td>
+			  	  <td width="640" valign="top"><h2 style="color: #484848">More inquiries</h2>
+                  <p style="color: #5A5A5A; font-size: 20px;">If you have any questions about this game, please click the Contact Us button below and we will answer your questions as soon as possible.</p>
+				  <a class="button" href="contact.html">Contact Us</a>
+				  </td>
+				  <td width="70">&nbsp;</td>
+					<td width="180">		  
+						<p><a href="index.html" class="foothera" >Home</a></p>
+						<p><a href="introduction.html" class="foothera">Game Introduction</a></p>
+					  <p><a href="howtoplay.html" class="foothera">How To Play</a></p>
+						<p><a href="discussion.html" class="foothera">Discussio Board</a></p>
+						<p><a href="contact.html" class="foothera">Contact Us</a></p></td>
+					<td width="50">&nbsp;</td>
+				</tr> 
+			  </tbody>
+			</table>
+		  </td>
+		</tr> 
+		<tr bgcolor="#989898">
+			<td>
+				<table width="1012" border="0">
+				  <tbody>
+					<tr>
+					  <td width="50">&nbsp;</td>
+					  <td><hr style="color: #E2E2E2">
+						<p style="color: #E2E2E2; text-align: center;">© 2019 All rights reserved.</p></td>
+					  <td width="50">&nbsp;</td>
+					</tr>
+				  </tbody>
+				</table>
+			</td>
+		</tr> 
+	  </tbody>
+	</table>
+</body>
+</html>
