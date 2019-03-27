@@ -51,7 +51,7 @@
 
 a:active, a:hover {
     text-decoration: underline;
-    color: #5E5E5E !important;
+    color: #CDCDCD !important;
 }
 </style>
 </head>
