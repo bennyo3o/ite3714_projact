@@ -29,7 +29,12 @@
     padding-bottom: 0;
     padding-left: 2em;
 }
-	
+
+.button:hover {
+  background-color: #f2594b;
+  color: white;
+}	
+
 .headera{
     color: #FFFFFF !important;
     display: inline-block;
